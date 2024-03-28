@@ -1,2 +1,2 @@
 # learn-typescript
-Esse repositório  de estudos do typescript 
+Esse repositório é para estudos do typescript 
